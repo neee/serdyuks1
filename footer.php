@@ -1,7 +1,7 @@
 <div id="social">
     <div class="container">
         <div class="row centered">
-            <div class="col-lg-2">
+            <div class="col-lg-2 col-lg-offset-3">
                 <a href="https://vk.com/neee1"><i class="fa fa-vk"></i></a>
             </div>
             <div class="col-lg-2">
